@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Projects <br>related to Front-End Web Development<br>🌱 I’m currently learning <br>On Back-End Web Development<br>💬 Ask me about HTML, CSS, Java, JavaScript, C,C++<br>📄 Know about my experiences <br>https://drive.google.com/file/d/1YV3GHfZuZ6uzD44qV_9FOPnycWVhbDRl/view?usp=sharing<br>📫 How to reach me abhiseksahoo7735@gmail.com<br>⚡ Fun fact I am Cricketer and foodie as well!
 
-
+<img align="right" alt="coading" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_abhisek?igshid=N2JhNDIwYjc=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahoo-abhisek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AlexAbhisek) 
 
