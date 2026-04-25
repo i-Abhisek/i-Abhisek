@@ -47,10 +47,13 @@
 ![SLF4J](https://img.shields.io/badge/SLF4J-FFA500?style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=i-Abhisek&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-Abhisek&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Abhisek&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=i-Abhisek&show_icons=true&theme=radical&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-Abhisek&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Abhisek&layout=compact&theme=radical&hide_border=true)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@AlexAbhisek)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
