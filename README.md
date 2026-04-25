@@ -55,6 +55,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Abhisek&layout=compact&theme=radical&hide_border=true)
 
+
+## 📈 Contribution Graph
+
+![](https://github-contribution-stats.vercel.app/api/?username=i-Abhisek)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@AlexAbhisek)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
