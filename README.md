@@ -49,16 +49,18 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=i-Abhisek&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=i-Abhisek&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-Abhisek&theme=radical&hide_border=true" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-Abhisek&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Abhisek&layout=compact&theme=radical&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Abhisek&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ## 📈 Contribution Graph
 
-![](https://github-contribution-stats.vercel.app/api/?username=i-Abhisek)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Abhisek&theme=radical" />
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@AlexAbhisek)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -71,5 +73,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=i-Abhisek&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
